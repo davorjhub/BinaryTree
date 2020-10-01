@@ -1,0 +1,11 @@
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\obj\Debug\netcoreapp2.2\BinayTreeConsole.csproj.CoreCompileInputs.cache
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\obj\Debug\netcoreapp2.2\BinayTreeConsole.AssemblyInfoInputs.cache
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\obj\Debug\netcoreapp2.2\BinayTreeConsole.AssemblyInfo.cs
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\bin\Debug\netcoreapp2.2\BinayTreeConsole.deps.json
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\bin\Debug\netcoreapp2.2\BinayTreeConsole.runtimeconfig.json
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\bin\Debug\netcoreapp2.2\BinayTreeConsole.runtimeconfig.dev.json
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\bin\Debug\netcoreapp2.2\BinayTreeConsole.dll
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\bin\Debug\netcoreapp2.2\BinayTreeConsole.pdb
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\obj\Debug\netcoreapp2.2\BinayTreeConsole.dll
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\obj\Debug\netcoreapp2.2\BinayTreeConsole.pdb
+C:\Users\dorjuela\source\repos\BinaryTree\BinayTreeConsole\obj\Debug\netcoreapp2.2\BinayTreeConsole.csprojAssemblyReference.cache
